@@ -1,6 +1,6 @@
 {
   "name": "jimmymick",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Personal npm card for Jim McLaughlin (@jimmymick)",
   "main": "dist/card.js",
   "unpkg": "index.html",
